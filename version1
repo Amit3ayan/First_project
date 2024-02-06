@@ -1,4 +1,3 @@
-//student id -220230
 #include <stdio.h>
 struct Node
 {
